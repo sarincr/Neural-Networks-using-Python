@@ -1,2 +1,2 @@
-# Neural-Networks-using-Python
-Neural Networks using Python Exercises
+# introduction to Soft Computing-using-Python
+introduction to Soft Computing using Python Exercises
